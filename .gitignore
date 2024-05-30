@@ -1,0 +1,12 @@
+# Ignore bin and obj directories
+**/bin/
+**/obj/
+
+# Ignore Visual Studio settings and cache
+.vs/
+.vscode/
+
+# Ignore user-specific files
+*.suo
+*.user
+*.sln.docstates
